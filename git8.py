@@ -1,8 +1,7 @@
+pip install snscrape
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 import streamlit as st
-pip install python-git
-pip install snscrape
 #pip install --upgrade --user pyqtwebengine==5.12.1
 #pip install --upgrade --user pyqt5==5.12.3
 #pip install streamlit
